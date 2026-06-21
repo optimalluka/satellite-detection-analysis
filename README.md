@@ -56,4 +56,4 @@ The entire analysis pipeline runs unchanged on any dataset with this schema.
 
 ## Author
 
-Luka Silbernagel — Princeton University, ORFE '28
+Luka Silbernagel, Princeton University, ORFE '29
